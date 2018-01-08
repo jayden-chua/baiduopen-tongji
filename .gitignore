@@ -1,0 +1,11 @@
+# Composer
+/vendor/
+
+# PHPStorm
+/.idea/
+
+# php-cs-fixer
+/.php_cs.cache
+
+# phpunit
+/tests/_coverage/
